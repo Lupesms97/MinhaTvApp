@@ -7,8 +7,8 @@ public class AboutMe {
         int idade = Integer.valueOf(args[2]);
         double altura = Double.valueOf(args[3]);
         
-        System.out.println("Olá, eu meu chamo "+ nome + " " + sobrenome);
-        System.out.println("Tenho" + idade + "anos");
+        System.out.println("Olá, eu meu chamo " + nome + " " + sobrenome);
+        System.out.println("Tenho " + idade + " anos");
         System.out.println("MInha altura é "+ altura);
 
     }
